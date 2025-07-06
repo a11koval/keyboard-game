@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f8f8f8;
+}
+
+#key {
+  font-weight: bold;
+  color: #2e7d32;
+  font-size: 24px;
+}
+
+#game {
+  margin-bottom: 40px;
+}
+
+button {
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
